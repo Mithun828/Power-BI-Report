@@ -1,3 +1,1 @@
-•	Analyzed and created interactive dashboard to track online sales data.
-•	Use complex parameters to drill down in worksheet and customization using filters and silcers
-•	Created connections, calculations to manipulate data and enable user driven parameters for visualizations. 
+Report is based on E Commerce online sales, where user can analyze annual and quaterly performance of the sales. Report gives a details of total revenue's and profits made by the store. User can apply filter to check for individual statewise performance.   
